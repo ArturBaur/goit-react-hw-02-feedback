@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import { StatisticsList, StatisticsItem } from './Statistics.module.jsx';
+import { StatisticsList, StatisticsItem } from './Statistics.styled.jsx';
 
 export const Statistics = ({
   good,
